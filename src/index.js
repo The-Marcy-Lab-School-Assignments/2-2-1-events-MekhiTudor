@@ -9,7 +9,7 @@
 //   p.textContent = "0";
 //   document.body.append(mainHeading, button, p);
 // };
-
+/** FEEDBACK: Wow this is succinct! Great job! */
 const incrementByOne = () => {
   document.querySelector("#results").textContent++;
 };
